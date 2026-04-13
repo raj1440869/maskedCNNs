@@ -1,4 +1,4 @@
-# Mask-Aware CNN for MNIST: A Study in Partial Observations
+# Mask-Aware CNN for MNIST
 
 This project investigates how CNNs handle partial observations. It compares three training strategies on MNIST digit classification and explores whether a single model can generalise across arbitrary masking patterns.
 
